@@ -15,6 +15,6 @@ int 0x10
 
 jmp $ ; infinite loop  
 
-times 510 - ($-$$) db 0
+times 510 - ($-$$) db 0 ; padding with zeros till bytes 511
 
 dw 0xaa55
