@@ -1,4 +1,12 @@
-# popcorn
+# Popcorn
+
+## Tasks
+
+- [ ] Build a bootloader
+- [ ] Build a kernel
+- [ ] Code the drivers
+- [ ] Code a filesystem
+- [ ] Interact with the user through a shell
 
 ## Dependencies
 
