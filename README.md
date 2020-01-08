@@ -11,8 +11,8 @@
 
 ## Dependencies
 
-NASM
-QEMU
+- NASM
+- QEMU
 
 ## Bootloader
 
