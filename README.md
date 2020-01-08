@@ -7,7 +7,7 @@
 - [ ] Code the drivers
 - [ ] Code a filesystem
 - [ ] Interact with the user through a shell
-- [ ] Code a UI
+- [ ] Code a UI with windows
 
 ## Dependencies
 
